@@ -13,7 +13,9 @@ public class Test {
 	System.out.println(driver.getTitle());
 	
 	driver.findElement(By.xpath("button[@class='btn bttn-primary")).click();
-	
+		driver.close();
+        thread.sleep(5000);
+		driver.quit();
 
 	}
 }

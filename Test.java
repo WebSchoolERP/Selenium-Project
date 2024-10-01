@@ -16,5 +16,4 @@ public class Test {
 	
 
 	}
-	//button[@class='btn bttn-primary'][normalize-space()='Book Free Session']
 }
